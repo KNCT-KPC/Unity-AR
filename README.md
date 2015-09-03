@@ -12,7 +12,7 @@ UnityでARを使うときの備忘録的な何かです。
 
 *Registered Email: kushiropc@gmail.com*
 
-*Password: 10motoisGOD*
+*Password:[プロ研Cybozuにて公開]*
 
 と入力してください。
 そうすると、無事にログインできます。
